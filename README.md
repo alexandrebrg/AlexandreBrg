@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 * I was working as a Cloud Engineer Intern at [@Ory](https://github.com/ory), developing tools for better infrastructure management 
 * I am a maintainer of [@rik-org](https://github.com/rik-org/rik) and [@polyxia-org](https://github.com/polyxia-org/)
 
+<!--
+Repository cards are copyrights of DenverCoder1
+See: https://github.com/DenverCoder1/DenverCoder1/tree/main
+-->
+
 <details open> 
   <summary><h2>📕 Few projects I've contributed to</h2></summary>
 
