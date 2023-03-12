@@ -1,7 +1,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexandreBrg)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-burgoni/)
-[![Mail Badge](https://img.shields.io/badge/-ProtonMail-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:sayhello.zmvqk@aleeas.com)](mailto:sayhello.zmvqk@aleeas.com)
+[![Mail Badge](https://img.shields.io/badge/-ProtonMail-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:sayhello.zmvqk@aleeas.com)](mailto:sayhello.zmvqk@aleeas.com)
 
 
 
