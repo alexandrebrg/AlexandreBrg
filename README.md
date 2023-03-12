@@ -1,3 +1,4 @@
+![Technologies portfolio](https://user-images.githubusercontent.com/23573685/224552695-b17c0b38-58f8-4c07-a8dc-5d90d9d9b8ce.png)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlexandreBrg)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-burgoni/)
