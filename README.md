@@ -1,6 +1,5 @@
 ![Technologies portfolio](https://user-images.githubusercontent.com/23573685/224552695-b17c0b38-58f8-4c07-a8dc-5d90d9d9b8ce.png)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AlexandreBrg)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-burgoni/)
 [![Mail Badge](https://img.shields.io/badge/-ProtonMail-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:sayhello.zmvqk@aleeas.com)](mailto:sayhello.zmvqk@aleeas.com)
 
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 * I am focusing on Kubernetes, software for cloud orchestration
-* I am working as a Software Engineer at [@Conduktor](https://github.com/conduktor) in 🦀 Cargo Team, developing a Kubernetes Operator
+* I am working as a Software Engineer at [@Conduktor](https://github.com/conduktor) in 🦀 team, working with Kubernetes Operator
 * I was working as a Cloud Engineer Intern at [@Ory](https://github.com/ory), developing tools for better infrastructure management 
 * I am a maintainer of [@rik-org](https://github.com/rik-org/rik) and [@polyxia-org](https://github.com/polyxia-org/)
 
