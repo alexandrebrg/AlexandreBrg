@@ -26,23 +26,3 @@ Here are some ideas to get you started:
 * I am working as a Software Engineer at [@Conduktor](https://github.com/conduktor) in 🦀 team, working with Kubernetes Operator
 * I was working as a Cloud Engineer Intern at [@Ory](https://github.com/ory), developing tools for better infrastructure management 
 * I am a maintainer of [@rik-org](https://github.com/rik-org/rik) and [@polyxia-org](https://github.com/polyxia-org/)
-
-<!--
-Repository cards are copyrights of DenverCoder1
-See: https://github.com/DenverCoder1/DenverCoder1/tree/main
--->
-
-<details open> 
-  <summary><h2>📕 Few projects I've contributed to</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/ory/kratos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ory&repo=kratos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="ory/kratos"></a>
-    <a href="https://github.com/openfga/openfga"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=openfga&repo=openfga&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="shields"></a>
-    <a href="https://github.com/bitnami/charts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bitnami&repo=charts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="simple-icons"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/AlexandreBrg/contrib/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
