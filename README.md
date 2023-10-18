@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 * I am focusing on Kubernetes, software for cloud orchestration
-* I am working as a Software Engineer at [@Conduktor](https://github.com/conduktor) in 🦀 team, working with Kubernetes Operators and on our Kafka Gateway product
+* I was working as a Software Engineer at [@Conduktor](https://github.com/conduktor) in 🦀 team, working with Kubernetes Operators and on our Kafka Gateway product
 * I was working as a Cloud Engineer Intern at [@Ory](https://github.com/ory) (2022), developing tools for better infrastructure management
 * I was working as a DevOps Engineer at [@R2DevOps](https://r2devops.io/) (2021-2022), managing their infrastructure and developing their backend software
 * I am a maintainer of [@rik-org](https://github.com/rik-org/rik) and [@polyxia-org](https://github.com/polyxia-org/)
