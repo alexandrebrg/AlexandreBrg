@@ -1,5 +1,3 @@
-![Technologies portfolio](https://user-images.githubusercontent.com/23573685/224552695-b17c0b38-58f8-4c07-a8dc-5d90d9d9b8ce.png)
-
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-burgoni/)
 [![Mail Badge](https://img.shields.io/badge/-ProtonMail-505264?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:sayhello.zmvqk@aleeas.com)](mailto:sayhello.zmvqk@aleeas.com)
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am working as a Site Reliability Engineer at [@CleverCloud](https://www.clever-cloud.com/) in Data Team, working to make our metrics platform efficient & highly available
+* I am working as a Site Reliability Engineer at [@CleverCloud](https://www.clever-cloud.com/) in Data Team, working with [FoundationDB](https://github.com/apple/foundationdb) and on the monitoring stack
 * I was working as a Software Engineer at [@Conduktor](https://github.com/conduktor) (2022-2023) in 🦀 team, working with Kubernetes Operators and on our Kafka Gateway product
 * I was working as a Cloud Engineer Intern at [@Ory](https://github.com/ory) (2022), developing tools for better infrastructure management
 * I was working as a DevOps Engineer at [@R2DevOps](https://r2devops.io/) (2021-2022), managing their infrastructure and developing their backend software
