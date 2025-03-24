@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am working as a Site Reliability Engineer at [@CleverCloud](https://www.clever-cloud.com/) in Data Team, working with [FoundationDB](https://github.com/apple/foundationdb) and on the monitoring stack
+* I am working as a Site Reliability Engineer at [@CleverCloud](https://www.clever-cloud.com/), working with [FoundationDB](https://github.com/apple/foundationdb), [Pulsar](https://github.com/apache/pulsar) and [Warp10](https://github.com/senx/warp10-platform)
 * I was working as a Software Engineer at [@Conduktor](https://github.com/conduktor) (2022-2023) in 🦀 team, working with Kubernetes Operators and on our Kafka Gateway product
 * I was working as a Cloud Engineer Intern at [@Ory](https://github.com/ory) (2022), developing tools for better infrastructure management
 * I was working as a DevOps Engineer at [@R2DevOps](https://r2devops.io/) (2021-2022), managing their infrastructure and developing their backend software
